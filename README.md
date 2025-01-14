@@ -20,7 +20,7 @@ Cette application React affiche la liste des universités du Sénégal en consom
 
 # SpringBootDatabaseComsumption
 
-Cette application React une liste de voiture ainsi que leur marque, leur matricule, le modele, la couleur, le prix de base, année de sortie.
+Cette application React utilise une liste de voiture ainsi que leur marque, leur matricule, le modele, la couleur, le prix de base, année de sortie.
 
 ## Fonctionnalités
 - Récupération des données via notre aplication SpringBoot à travers le endpoint `http://localhost:8080/api/cars`.

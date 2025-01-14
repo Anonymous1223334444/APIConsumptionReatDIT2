@@ -6,7 +6,7 @@ Cette application React permet de consommer une API pour afficher une liste de f
 - Récupération des données via l'API [ReactNative](https://reactnative.dev/movies.json).
 - Affichage dynamique des films avec leurs informations principales.
 
-![Film](https://drive.google.com/file/d/1wqTEaxTbyk_ak6-FbcvyZtuxgiknMlNZ/view?usp=sharing)
+[Film](https://drive.google.com/uc?export=download&id=1wqTEaxTbyk_ak6-FbcvyZtuxgiknMlNZ)
 
 # ApiConsumption2
 
@@ -16,7 +16,8 @@ Cette application React affiche la liste des universités du Sénégal en consom
 - Récupération des données des universités via l'API [Hipolabs](http://universities.hipolabs.com).
 - Affichage des informations : nom, domaines et liens vers les sites officiels.
 
-![University](https://drive.google.com/file/d/1Enk0UqNLcFcNcNsch45Y3J3itBlcwUfF/view?usp=sharing)
+[University](https://drive.google.com/uc?export=download&id=1Enk0UqNLcFcNcNsch45Y3J3itBlcwUfF)
+
 
 # SpringBootDatabaseComsumption
 
@@ -37,7 +38,7 @@ cd sb-car-2
 localhost:8080/h2-console.
 ```
 
-![Automobile](![Film](https://drive.google.com/file/d/1wqTEaxTbyk_ak6-FbcvyZtuxgiknMlNZ/view?usp=sharing))
+[Automobile](https://drive.google.com/uc?export=download&id=1wqTEaxTbyk_ak6-FbcvyZtuxgiknMlNZ)
 
 ## Technologies
 - React
